@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>How to Import XML Data into Mysql Table Using Ajax PHP</title>
+  <title>Importar Arquivo XML</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
  </head>
@@ -14,7 +14,7 @@
   <br />
   <div class="container">
    <div class="row">
-    <h2 align="center">How to Import XML Data into Mysql Table Using Ajax PHP</h2>
+    <h2 align="center">Importar Arquivo XML</h2>
     <br />
     <div class="col-md-9" style="margin:0 auto; float:none;">
      <span id="message"></span>
